@@ -1,5 +1,5 @@
 ### Hi there, this is trial 👋
-[[1500x500](https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif)]
+![](https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif)
 <!--
 **mhilmiarikmert/mhilmiarikmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
