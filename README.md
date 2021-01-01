@@ -28,9 +28,9 @@
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight">
-  <img  content =align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight"height = "170px"/>
+  <img  content =align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight"height = "200px"/>
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight" height = "170px"/>
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight" height = "200px"/>
 </a>
 </div>
