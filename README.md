@@ -1,5 +1,38 @@
-# Hi, this is Mahmut Hilmi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br>
-![](https://visitor-badge.laobi.icu/badge?page_id=mhilmiarikmert.mhilmiarikmert)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhilmiarikmert&theme=tokyonight)
-<img src = "https://user-images.githubusercontent.com/42295478/97403999-70544080-1906-11eb-8db3-cf7d583e8ae1.gif" width = "400" height = "300">
- 
+## Hi there, I'm Mahmut Hilmi 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=mhilmiarikmert.mhilmiarikmert) [![Github](https://img.shields.io/github/followers/mhilmiarikmert?label=Followers&logo=Github)](https://github.com/mhilmiarikmert)
+
+
+## I'm a Junior Computer Science and Engineering Student at Marmara University
+
+<br/>
+
+## 🧰 Languages and Tools:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+
+</p>
+
+<br/>
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight" />
+</a>
+</div>
