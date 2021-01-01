@@ -1,2 +1,2 @@
-<img src = "https://user-images.githubusercontent.com/42295478/97403999-70544080-1906-11eb-8db3-cf7d583e8ae1.gif" width = "600" height = "400">
+<img src = "https://user-images.githubusercontent.com/42295478/97403999-70544080-1906-11eb-8db3-cf7d583e8ae1.gif" width = "300" height = "300">
  
