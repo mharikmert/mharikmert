@@ -1,4 +1,4 @@
-### Hi, I'm Mahmut Hilmi 👋
+### Hi, this is Mahmut Hilmi Arıkmert 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=mhilmiarikmert.mhilmiarikmert) [![Github](https://img.shields.io/github/followers/mhilmiarikmert?label=Followers&logo=Github)](https://github.com/mhilmiarikmert)
 
 🎓 I'm a Junior Computer Science and Engineering Student at Marmara University
