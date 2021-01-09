@@ -1,4 +1,4 @@
-### Hi, I'm Mahmut Hilmi 👋
+### Hi, this is Mahmut Hilmi Arıkmert 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=mhilmiarikmert.mhilmiarikmert) [![Github](https://img.shields.io/github/followers/mhilmiarikmert?label=Followers&logo=Github)](https://github.com/mhilmiarikmert)
 
 🎓 I'm a Junior Computer Science and Engineering Student at Marmara University
@@ -29,9 +29,13 @@
 
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight">
+<<<<<<< HEAD
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight"height = "250px"/>
+=======
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=mhilmiarikmert&count_private=true&show_icons=true&theme=tokyonight"height = "220px"/>
+>>>>>>> 2d26561224670b3c7e5ae333aeb33fb4a39cd8fc
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight" height = "250px"/>
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mhilmiarikmert&hide=php&theme=tokyonight" height = "220px"/>
 </a>
 </div>
