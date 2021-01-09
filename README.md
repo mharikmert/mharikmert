@@ -8,7 +8,7 @@
 ## 🧰 Languages and Tools:
 
 <p align="center">
-<img src=".git/images/java.jpg" alt="Java" height="40" style="vertical-align:center; margin:4px">
+<img src="https://raw.githubusercontent.com/mhilmiarikmert/mhilmiarikmert/main/.github/images/java.jpg" alt="Java" height="40" style="vertical-align:center; margin:4px">
 <img src=".git/images/spring.png" alt "Spring" height = "40" style = "vertical-align:center; margin:4px">
 <img src=".git/images/intellij.png" alt = "Intellij" height = "40" style =" vertical-align:center; margin:4px">
 <img src=".git/images/javascript.png" alt="Javascript" height="40" style="vertical-align:center; margin:4px">
